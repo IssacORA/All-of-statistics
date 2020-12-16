@@ -21,3 +21,4 @@ don't know how well you done
 > Parsimony vs black-box
 # Assessing Model Accuracy
 use MSE
+![image](https://github.com/IssacORA/All-of-statistics/blob/main/image/image.png)
