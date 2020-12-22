@@ -10,3 +10,4 @@
 ![image](https://github.com/IssacORA/All-of-statistics/blob/main/image/TSS.jpg)
 ## R^2=(TSS-RSS)/TSS
 # Mutiple Linear Regression
+# 
